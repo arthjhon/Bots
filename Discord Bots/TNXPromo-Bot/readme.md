@@ -2,8 +2,6 @@
 
 **TNXPromo** é um bot que monitora automaticamente sites de ofertas e promoções na internet, enviando as melhores oportunidades encontradas diretamente para canais do **Discord**, **Telegram**, ou qualquer outro sistema integrado.
 
----
-
 ## 🛍️ O que o TNXPromo faz?
 
 - 🔄 Busca periódica por promoções em sites como:
@@ -17,7 +15,7 @@
 - 🕒 Atualizações em tempo real ou em intervalos configuráveis
 - 📦 Pode ser usado para monitorar produtos específicos ou categorias
 
----
+
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -58,7 +56,7 @@
    🔗 Link: https://www.kabum.com.br/produto/ssd...
 
    📦 Loja: Kabum
-
+   ```
 ## 🧠 Funcionalidades Planejadas
  Painel Web para gerenciamento de filtros
 
